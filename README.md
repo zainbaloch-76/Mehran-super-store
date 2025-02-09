@@ -18,11 +18,11 @@
     <div class="products">
         <h2>Our Products</h2>
         <p>Groceries, Snacks, Beverages, Household Items, and More!</p>
-        <!-- Add product images and descriptions here -->
+        <!-- Add product images and descriptions here --> Snacks, Beverages, Household Items, and More!</p>
     </div>
 
     <div class="footer">
-        <p>Contact Us: 📞 0312-XXXXXXX | 📍 Karachi, Pakistan</p>
+        <p>Contact Us: 📞 0313-2241824| 📍 Karachi, Pakistan</p>
     </div>
 </body>
 </html>
